@@ -1,3 +1,3 @@
 # Glass-Calendar---React-JS
 
-[Glass Calendar Preview](/GlassCalendar.png)
+![Glass Calendar Preview](/GlassCalendar.png)
